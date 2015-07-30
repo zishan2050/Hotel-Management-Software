@@ -1,0 +1,29 @@
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\bin\Debug\HOTEL MANAGEMENT.exe
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\bin\Debug\HOTEL MANAGEMENT.pdb
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\bin\Debug\HOTEL MANAGEMENT.xml
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL_MANAGEMENT.Form1.resources
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL_MANAGEMENT.Resources.resources
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL MANAGEMENT.exe
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL MANAGEMENT.xml
+C:\Users\ZISHAN MOHSIN\AppData\Local\Temporary Projects\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL MANAGEMENT.pdb
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\bin\Debug\HOTEL MANAGEMENT.exe.config
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\Interop.ODBCTool.dll
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL MANAGEMENT.vbproj.ResolveComReference.cache
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL_MANAGEMENT.Form2.resources
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL_MANAGEMENT.Form3.resources
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL_MANAGEMENT.Form1.resources
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\bin\Debug\HOTEL MANAGEMENT.exe
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\bin\Debug\HOTEL MANAGEMENT.pdb
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\bin\Debug\HOTEL MANAGEMENT.xml
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL_MANAGEMENT.Resources.resources
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL MANAGEMENT.exe
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL MANAGEMENT.xml
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL MANAGEMENT.pdb
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL_MANAGEMENT.Form4.resources
+C:\Users\ZISHAN MOHSIN\Documents\Visual Studio 2010\Projects\HOTEL MANAGEMENT\HOTEL MANAGEMENT\obj\x86\Debug\HOTEL_MANAGEMENT.Form5.resources
